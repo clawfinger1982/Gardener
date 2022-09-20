@@ -1,24 +1,3 @@
-# 1. Напишите функцию, которая будет принимать номер кредитной карты и
-# показывать только последние 4 цифры. Остальные цифры должны заменяться
-# звездочками
-# card=('1234567890123456')
-# def c_card(card):
-#     return '*' * len(card[:-4]) + card[-4:]
-# print(c_card(card))
-
-
-
-# 2. Напишите функцию, которая проверяет: является ли слово палиндромом
-# word='palindrom'
-# # word='palap' # для проверки
-# def Palindrom_check(word):
-#     if word[::-1].startswith(word):
-#         return True
-#     else:
-#         return False
-# print(Palindrom_check(word))
-
-
 # 3. Решите задачу
 #
 # Класс Tomato:
